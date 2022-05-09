@@ -1,0 +1,26 @@
+<style>
+
+    body{
+      font-size: 16px;
+    }
+
+    h1{
+      font-family:sans-serif;
+    }
+
+    p{
+      font: weight 50px;
+      font-size: 3em;
+      font-style: italic;
+      line-height: 50px;
+      text-align: justify;
+      text-decoration: underline;
+      background-color: brown;
+    }
+    
+    ul{
+      font-size: 25px;
+      background-color:brown ;
+    }
+
+  </style>
