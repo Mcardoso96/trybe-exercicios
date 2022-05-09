@@ -1,0 +1,49 @@
+<style>
+    h1{
+      color: white;
+    }
+    h2{
+      color:white;
+    }
+
+    ol{
+      color: white;
+      line-height: 40px;
+    }
+
+    body{
+      background-color: darkgreen;
+    }
+
+    p{
+      font-family:Arial, Helvetica, sans-serif;
+      color: white;
+    }
+
+    .name{
+      font-family: 'Times New Roman', Times, serif
+    }
+
+    .description{
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .local{
+      color: red;
+    }
+    .nacionalidade{
+      color: darkgoldenrod;
+    }
+    .bairro{
+      color: greenyellow;
+    }
+    .habilidade1{
+      font-size: 15px;
+    }
+    .habilidade2{
+      color: black;
+      font-size: 20px;
+    }
+    .habilidade3{
+      font-size: 17px;
+    }
+  </style>
