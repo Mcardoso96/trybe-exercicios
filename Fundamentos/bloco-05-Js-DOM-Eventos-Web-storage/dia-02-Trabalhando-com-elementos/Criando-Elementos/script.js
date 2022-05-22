@@ -20,5 +20,5 @@ primeiroFilhoDoFilho.appendChild(netoOndeVcEsta);
 console.log(document.querySelector('#primeiroFilhoDoFilho').children)
 
 //Questão 4
-netoOndeVcEsta.id = 'netoOndeVcEsta'
+netoOndeVcEsta.id = 'netoOndeVcEsta' // criando um id para um elemento criado com appenChild
 console.log(document.querySelector('#netoOndeVcEsta').parentElement.parentElement.nextElementSibling)
