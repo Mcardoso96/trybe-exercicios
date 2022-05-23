@@ -1,0 +1,4 @@
+criar um for que percorra o array;
+criar a variavel que receba o resutado;
+imprimir o item com mais elementos;
+imprimir o item com menos elementos;
