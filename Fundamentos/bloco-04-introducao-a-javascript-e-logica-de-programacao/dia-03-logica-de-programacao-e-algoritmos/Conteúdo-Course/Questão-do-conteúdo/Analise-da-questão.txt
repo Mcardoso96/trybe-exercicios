@@ -1,0 +1,5 @@
+devemos utilizar o array fruits;
+o termo "percorra" indica uma estrutura de repetição, ou loop;
+"somando todos os valores" mostra que devemos ter uma variável que guarda o valor da soma dos valores;
+o termo "caso" indica uma estrutura condicional, ou if;
+"imprima o valor final" indica um console.log;
