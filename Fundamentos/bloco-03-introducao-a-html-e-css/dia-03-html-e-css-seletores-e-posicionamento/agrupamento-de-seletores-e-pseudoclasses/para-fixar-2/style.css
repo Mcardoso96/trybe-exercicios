@@ -1,0 +1,5 @@
+.cor-primaria:hover{
+    border: 30px solid blue;
+    border-radius: 20px;
+    background-color: yellow;
+}
