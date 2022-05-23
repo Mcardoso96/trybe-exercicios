@@ -1,0 +1,4 @@
+inverter a string banana;
+utilizar a posição das strings como arrays;
+criar uma variável para armazenar a string invertida;
+imprimir o resultado;
