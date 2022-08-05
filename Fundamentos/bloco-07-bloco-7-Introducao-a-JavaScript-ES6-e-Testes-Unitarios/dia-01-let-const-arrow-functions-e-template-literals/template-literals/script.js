@@ -5,8 +5,8 @@
 console.log('Hello' + ' ' + myName + '!'); */
 
 // concatenação de strins com template literals
-/* const myName = 'Isabella';
-console.log(`Welcome ${myName}!`); */
+ const myName = 'Isabella';
+console.log(`Welcome ${myName}!`);
 
 // Com o template literals
 /* console.log(`Primeira linha;
